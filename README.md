@@ -1,4 +1,5 @@
-# MovieLens Recommender System: An End-to-End Medallion Pipeline on Databricks
+# MovieLens Recommender System:
+      An End-to-End Medallion Pipeline on Databricks
 
 This project implements a Movie Recommendation System using **Spark MLlib's Alternating Least Squares (ALS) algorithm**. The data is managed using a Medallion Architecture (Bronze, Silver, Gold layers) and governed by Unity Catalog on Databricks.
 
